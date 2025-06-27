@@ -6,10 +6,11 @@
 
 ## Topics
 - Convex & Nonconvex Optimization
-- Gradient Methods & Variants
-- Constrained Optimization
-- Manifold Optimization
-- Bilevel & Federated Optimization
+- Stochastic Optimization
+- Introduction to Generative Models
+- LLM Pretraining
+- LLM Finetuning
+- Additional Topics
 
 ## Grading
 - Assignments: 40%
