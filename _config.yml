@@ -2,13 +2,20 @@ title: ML Optimization (Grad)
 author: OptimAI-Lab
 copyright: "2025"
 logo: ""
-html:
-  toc:
-    sidebar:
-      depth: 2
+# html:
+#   toc:
+#     sidebar:
+#       depth: 2
 sphinx:
   config:
     html_theme: sphinx_book_theme
     copyright: "2025"
+mathjax3_config:
+  tex:
+    macros:
+      RR: "\\mathbb{R}"
+      EE: "\\mathbb{E}"
+      Var: "\\mathrm{Var}"
+      KL: ["\\mathrm{KL}\\left(#1 \\middle\\| #2\\right)", 2]
 execute:
   execute_notebooks: "off" # or "auto" to execute notebooks automatically
