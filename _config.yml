@@ -5,5 +5,8 @@ html:
   toc:
     sidebar:
       depth: 2
+sphinx:
+  config:
+    html_theme: sphinx_book_theme
 execute:
   execute_notebooks: "off" # or "auto" to execute notebooks automatically
