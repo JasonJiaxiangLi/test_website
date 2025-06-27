@@ -9,5 +9,6 @@ html:
 sphinx:
   config:
     html_theme: sphinx_book_theme
+    copyright: "2025"
 execute:
   execute_notebooks: "off" # or "auto" to execute notebooks automatically
