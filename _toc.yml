@@ -3,6 +3,4 @@ root: index
 chapters:
   - file: syllabus
   - file: lectures/intro
-    title: Introduction to Optimization
   - file: lectures/optimization
-    title: Gradient-Based Methods
