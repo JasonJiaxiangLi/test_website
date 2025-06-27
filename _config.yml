@@ -1,9 +1,9 @@
 title: ML Optimization (Grad)
 author: OptimAI-Lab
 logo: ""
-execute:
-  execute_notebooks: "off" # or "auto" to execute notebooks automatically
 html:
   toc:
     sidebar:
       depth: 2
+execute:
+  execute_notebooks: "off" # or "auto" to execute notebooks automatically
