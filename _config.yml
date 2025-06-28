@@ -6,6 +6,8 @@ logo: ""
 #   toc:
 #     sidebar:
 #       depth: 2
+bibtex_bibfiles:
+  - references.bib
 sphinx:
   config:
     html_theme: sphinx_book_theme
@@ -17,5 +19,6 @@ sphinx:
           EE: "\\mathbb{E}"
           Var: "\\mathrm{Var}"
           KL: ["\\mathrm{KL}\\left(#1 \\middle\\| #2\\right)", 2]
+    bibtex_reference_style: author_year  # or label
 execute:
   execute_notebooks: "off" # or "auto" to execute notebooks automatically
