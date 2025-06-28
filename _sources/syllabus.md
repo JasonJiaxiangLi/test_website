@@ -1,6 +1,6 @@
 # Syllabus
 
-**Course Title**: Machine Learning Optimization  
+**Course Title**: Optimization for Machine Learning  
 **Semester**: Fall 2025  
 **Level**: Graduate  
 
