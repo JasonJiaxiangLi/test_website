@@ -21,4 +21,4 @@ sphinx:
           KL: ["\\mathrm{KL}\\left(#1 \\middle\\| #2\\right)", 2]
     bibtex_reference_style: author_year  # or label
 execute:
-  execute_notebooks: "auto" # ["off", "auto"]
+  execute_notebooks: "off" # ["off", "auto"]
