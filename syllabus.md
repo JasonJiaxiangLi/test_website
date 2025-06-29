@@ -1,6 +1,6 @@
 # Syllabus
 
-**Course Title**: Optimization for Large Language Models
+**Course Title**: Optimization for Large Language Models  
 **Semester**: Fall 2025  
 **Level**: Graduate   
 
